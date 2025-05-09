@@ -1,2 +1,1 @@
-# gideon
 # recipes
